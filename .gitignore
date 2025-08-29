@@ -1,0 +1,7 @@
+# Ignore videos
+*.mp4
+*.avi
+
+# Ignore other large generated files
+*.zip
+*.tar

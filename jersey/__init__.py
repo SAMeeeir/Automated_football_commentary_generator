@@ -1,0 +1,2 @@
+
+from .jersey import JerseyNumberRecognition
